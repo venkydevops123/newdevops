@@ -1,0 +1,17 @@
+[33mcommit 8f7782f0128405b0da3e0526811adf509f967e22[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: root <root@ip-172-31-24-35.eu-west-2.compute.internal>
+Date:   Fri Oct 1 21:10:18 2021 +0000
+
+    created file4 and updated with code file3
+
+[33mcommit 7ac478ed45428575f9cc2ba07d3402dae13cafd3[m
+Author: root <root@ip-172-31-24-35.eu-west-2.compute.internal>
+Date:   Fri Oct 1 21:05:00 2021 +0000
+
+    created file3 and updated file2
+
+[33mcommit c99ad89dcc7c0ccb9d6ac01f3f01c1c6715f6c45[m
+Author: root <root@ip-172-31-24-35.eu-west-2.compute.internal>
+Date:   Fri Oct 1 20:54:04 2021 +0000
+
+    created two files
